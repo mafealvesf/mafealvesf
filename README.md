@@ -1,11 +1,9 @@
-<h3 align="left">Hi 👋! My name is Maria, and I'm a Data Analyst & Software Engineering!<br>I love coding and uncovering hidden stories in data. Whether it's crunching numbers, building cool projects, or optimizing databases, I'm always up for a challenge! 🚀<br><br>Here, you'll find a mix of data magic, Python experiments, and some nerdy adventures in the world of software development. Let’s connect and turn raw data into meaningful insights! 💡<br><br>Happy coding! 🖥️✨</h3>
+
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mafealvesf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mafealvesf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">Hi 👋! My name is Maria, and I'm a Data Analyst & Software Engineering!<br>I love coding and uncovering hidden stories in data. Whether it's crunching numbers, building cool projects, or optimizing databases, I'm always up for a challenge! <br><br>Here, you'll find a mix of data magic, Python experiments, and some nerdy adventures in the world of software development. Let’s connect and turn raw data into meaningful insights! <br><br>Happy coding! 🖥️✨</h3>
 
 ###
 
@@ -20,6 +18,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mafealvesf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mafealvesf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mafealvesf/mafealvesf/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -42,16 +53,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mafealvesf/mafealvesf/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mafealvesf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
