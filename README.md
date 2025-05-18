@@ -6,7 +6,7 @@
 
   <!-- Typing Animation -->
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ed9da1&center=true&vCenter=true&width=435&lines=8+years+of+experience;PPython+%7C+SQL+%7C+R+%7C+Data+Engineering;Strategic+Data+Analysis;Turning+data+into+insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ed9da1&center=true&vCenter=true&width=435&lines=8+years+of+experience;Python+%7C+SQL+%7C+R+%7C+Data+Engineering;Strategic+Data+Analysis;Turning+data+into+insights" alt="Typing SVG" />
   </h3>
 
   <!-- Profile Views Counter -->
@@ -78,13 +78,13 @@
 <!-- GitHub Stats -->
 <h2>GitHub Stats</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-mafealvesfs-projects.vercel.app/api?username=mafealvesf&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=cb7ca2&icon_color=ed9da1&border_color=ed9da1" />
+  <img height="180em" src="https://github-readme-stats-mafealvesfs-projects.vercel.app/api?username=mafealvesf&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=cb7ca2&icon_color=ed9da1&border_color=ed9da1" />
 </div>
 
 <!-- Language Distribution -->
 <h2>Language Distribution</h2>
 <div align="center">
-  <img src="https://github-readme-stats-mafealvesfs-projects.vercel.app/api/top-langs/?username=mafealvesf&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=cb7ca2&icon_color=ed9da1" alt="Language Distribution" />
+  <img src="https://github-readme-stats-mafealvesfs-projects.vercel.app/api/top-langs/?username=mafealvesf&layout=compact&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=cb7ca2&icon_color=ed9da1" alt="Language Distribution" />
 </div>
 
 <!-- GitHub Achievements -->
@@ -94,13 +94,13 @@
 </div>
 
 <!-- Contribution Activity -->
-<!-- <h2>Contribution Activity</h2>
+<h2>Contribution Activity</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafealvesf&theme=react-dark&bg_color=0D1117&hide_border=true&line=cb7ca2&point=ed9da1&color=cb7ca2&area=true&area_color=ed9da1" alt="Contribution Activity Graph" />
-</div> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafealvesf&count_private=true&theme=react-dark&bg_color=0D1117&hide_border=true&line=cb7ca2&point=ed9da1&color=cb7ca2&area=true&area_color=ed9da1" alt="Contribution Activity Graph" />
+</div>
 
 <!-- 3D Contribution Grid -->
-<h2>3D Contribution Grid</h2>
+<h2>Contribution Grid</h2>
 <div align="center">
   <a href="./profile-3d-contrib/profile-night-rainbow.svg">
     <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Grid">
