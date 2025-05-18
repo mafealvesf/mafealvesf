@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50" style="margin-right:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" width="50" height="50" style="margin-right:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50" height="50" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scilab/scilab-original.svg" width="50" height="50" style="margin-right:10px"/>
+
 </p>
 
 <h3>Tools & Platforms</h3>
@@ -53,7 +53,7 @@
   <!-- Power BI (SVG from Wikimedia) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" style="margin-right:10px"/>
   <!-- Databricks (PNG fallback) -->
-  <img src="https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png" width="50" height="50" style="margin-right:10px"/>
+  <!-- <img src="https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png" width="50" height="50" style="margin-right:10px"/> -->
   <!-- Docker (devicon) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" style="margin-right:10px"/>
   <!-- Apache Spark (SVG from Wikimedia) -->
