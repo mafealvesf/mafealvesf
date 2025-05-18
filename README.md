@@ -78,15 +78,13 @@
 <!-- GitHub Stats -->
 <h2>GitHub Stats</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mafealvesf&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E0CF&icon_color=00E0CF&border_color=00E0CF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafealvesf&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00E0CF&border_color=00E0CF" />
+  <img height="180em" src="https://github-readme-stats-mafealvesfs-projects.vercel.app/api?username=mafealvesf&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=cb7ca2&icon_color=ed9da1&border_color=ed9da1" />
 </div>
-
 
 <!-- Language Distribution -->
 <h2>Language Distribution</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafealvesf&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=cb7ca2&icon_color=ed9da1" alt="Language Distribution" />
+  <img src="https://github-readme-stats-mafealvesfs-projects.vercel.app/api/top-langs/?username=mafealvesf&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=cb7ca2&icon_color=ed9da1" alt="Language Distribution" />
 </div>
 
 <!-- GitHub Achievements -->
@@ -94,7 +92,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mafealvesf&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </div>
-
 
 <!-- Contribution Activity -->
 <!-- <h2>Contribution Activity</h2>
@@ -109,8 +106,6 @@
     <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Grid">
   </a>
 </div>
-
-
 
 <!-- Languages -->
 <h2>Languages</h2>
