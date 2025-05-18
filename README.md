@@ -6,7 +6,7 @@
 
   <!-- Typing Animation -->
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ed9da1&center=true&vCenter=true&width=435&lines=8+years+of+experience;+PPython+%7C+SQL+%7C+R+%7C+Data+Engineering;Strategic+Data+Analysis;Turning+data+into+insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ed9da1&center=true&vCenter=true&width=435&lines=8+years+of+experience;PPython+%7C+SQL+%7C+R+%7C+Data+Engineering;Strategic+Data+Analysis;Turning+data+into+insights" alt="Typing SVG" />
   </h3>
 
   <!-- Profile Views Counter -->
