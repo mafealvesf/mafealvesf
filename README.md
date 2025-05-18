@@ -2,11 +2,11 @@
 
 <div align="center">
   <!-- Animated Banner with Gradient Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cb7ca2,100:ed9da1&height=200&section=header&text=Maria%20Fernandes&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20|%20Software%20Engineer&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cb7ca2,100:ed9da1&height=200&section=header&text=Maria%20Fernandes&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20|%20Data%20Engineer&descAlignY=55"/>
 
   <!-- Typing Animation -->
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ed9da1&center=true&vCenter=true&width=435&lines=8+years+of+experience;Python+%7C+SQL+%7C+R+%7C+Data+Engineering;Strategic+Data+Analysis;Turning+data+into+insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ed9da1&center=true&vCenter=true&width=435&lines=8+years+of+experience;+Python+%7C+SQL+%7C+R+%7C+Data+Engineering;Strategic+Data+Analysis;Turning+data+into+insights" alt="Typing SVG" />
   </h3>
 
   <!-- Profile Views Counter -->
@@ -76,16 +76,16 @@
 </div>
 
 <!-- GitHub Stats -->
-<h2>GitHub Stats</h2>
+<!-- <h2>GitHub Stats</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats-mafealvesfs-projects.vercel.app/api?username=mafealvesf&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=cb7ca2&icon_color=ed9da1&border_color=ed9da1" />
 </div>
 
 <!-- Language Distribution -->
-<h2>Language Distribution</h2>
+<!-- <h2>Language Distribution</h2>
 <div align="center">
   <img src="https://github-readme-stats-mafealvesfs-projects.vercel.app/api/top-langs/?username=mafealvesf&layout=compact&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=cb7ca2&icon_color=ed9da1" alt="Language Distribution" />
-</div>
+</div> --> -->
 
 <!-- GitHub Achievements -->
 <h2>GitHub Achievements</h2>
@@ -99,7 +99,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafealvesf&count_private=true&theme=react-dark&bg_color=0D1117&hide_border=true&line=cb7ca2&point=ed9da1&color=cb7ca2&area=true&area_color=ed9da1" alt="Contribution Activity Graph" />
 </div>
 
-<!-- 3D Contribution Grid -->
+<!--Contribution Grid -->
 <h2>Contribution Grid</h2>
 <div align="center">
   <a href="./profile-3d-contrib/profile-night-rainbow.svg">
