@@ -121,7 +121,7 @@
   <a href="https://linkedin.com/in/mariaffernandes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=cb7ca2&labelColor=ed9da1" alt="LinkedIn" />
   </a>
-  <a href="mailto:mafealvesf@gmail.com?subject=Contact%20from%20GitHub%20Profile" target="_blank">
+  <a href="mailto:mafealvesf@gmail.com">Enviar e-mail</a>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=cb7ca2&labelColor=ed9da1" alt="Email" />
   </a>
 </div>
