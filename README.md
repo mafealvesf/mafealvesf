@@ -76,8 +76,8 @@ For me, data engineering is about more than pipelines—it's about enabling insi
 <li><b>Cloud & Storage:</b> Azure Data Lake Gen2, S3</li>
 <li><b>Query Engines:</b> Trino, Presto</li>
 <li><b>Visualization & BI:</b> Power BI, Superset, Streamlit, Dash</li>
-<li><b>DevOps & Version Control: Git, CI/CD</li>
-<li><b>Governance & Data Quality: Hash-based deduplication, schema evolution, time-travel queries</li>
+<li><b>DevOps & Version Control:</b> Git, CI/CD</li>
+<li><b>Governance & Data Quality:</b> Hash-based deduplication, schema evolution, time-travel queries</li>
 </ul>
 
 <div align="center">
