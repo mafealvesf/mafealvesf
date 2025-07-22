@@ -70,9 +70,14 @@ For me, data engineering is about more than pipelines—it's about enabling insi
 
 <h3>Level</h3>
 <ul>
-  <li><b>Advanced:</b> Python, SQL, ETL, R</li>
-  <li><b>Intermediate:</b> Spark, Docker, Java, JavaScript, C#</li>
-  <li><b>Beginner:</b> Machine Learning, Looker, Julia, Matlab, Scilab</li>
+<li><b>Languages:</b>  Python, SQL, C#, Java</li>
+<li><b>ETL & Orchestration:</b> Apache Spark (SQL/DataFrame API), Apache Airflow, Apache NiFi</li>
+<li><b>Lakehouse & Table Formats:</b> Apache Iceberg, Parquet, Delta Lake, Hive external tables</li>
+<li><b>Cloud & Storage:</b> Azure Data Lake Gen2, S3</li>
+<li><b>Query Engines:</b> Trino, Presto</li>
+<li><b>Visualization & BI:</b> Power BI, Superset, Streamlit, Dash</li>
+<li><b>DevOps & Version Control: Git, CI/CD</li>
+<li><b>Governance & Data Quality: Hash-based deduplication, schema evolution, time-travel queries</li>
 </ul>
 
 <div align="center">
