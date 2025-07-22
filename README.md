@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Animated Banner with Gradient Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cb7ca2,100:ed9da1&height=200&section=header&text=Maria%20Fernandes&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Analyst%20|%20Data%20Engineer&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cb7ca2,100:ed9da1&height=200&section=header&text=Maria%20Fernandes&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Engineer%20|%20Data%20Analyst&descAlignY=55"/>
 
   <!-- Typing Animation -->
   <h3>
