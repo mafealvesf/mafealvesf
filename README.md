@@ -16,16 +16,20 @@
 <!-- About Me -->
 <h2>About Me</h2>
 <p>
-  Passionate Data Analyst with over 8 years of experience in data analysis 💗, modeling, and engineering. Throughout my career, I've focused on transforming raw data into strategic, robust solutions that drive business success and empower decision-making.
+  PassionateData Engineer with over 8 years in designing, building, and optimizing data pipelines and architectures  💗. I specialize in transforming complex, raw data into scalable, high-performance solutions that support analytics, reporting, and data-driven decision-making across organizations.
 </p>
 <p>
-  My journey in data has allowed me to master a wide range of programming languages and frameworks, including Python, SQL, R, and NoSQL databases. I take pride in writing clean, maintainable code and designing efficient algorithms to solve complex problems with clarity and impact.
+ My technical expertise spans across Python, SQL, R, NoSQL databases, and modern data engineering frameworks. I have a strong track record of developing efficient ETL processes, maintaining robust data warehouses, and ensuring data quality, reliability, and governance across diverse environments.
+
 </p>
 <p>
-  I'm deeply committed to continuous learning and staying ahead of industry trends. Whether I'm exploring data science, diving into machine learning applications, or refining data architecture, I'm always excited to expand my technical horizons and deliver excellence in everything I build.
+ I take pride in writing clean, scalable code, and designing resilient data infrastructure that meets both current and future business needs. I’m also highly engaged with cloud platforms (AWS, GCP, Azure) and orchestration tools like Airflow, DBT, and Kafka.
 </p>
 <p>
-  I believe data is the new oil — and refining it into meaningful insights requires skill, vision, and passion 💗✨ . That's what drives me every day.
+  Driven by curiosity and a passion for solving complex data challenges, I’m constantly exploring advancements in data architecture, big data ecosystems, and real-time processing technologies.
+</p>
+<p>
+For me, data engineering is about more than pipelines—it's about enabling insights, scalability, and innovation through thoughtful, well-architected systems. That’s the mission I bring to every project. 💗✨ 
 </p>
 
 <div align="center">
